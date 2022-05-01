@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on robotics and self driving AI/CV, android app development 
 - 🌱 I’m currently learning systems programming, web/app development, and ML/CV
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love playing basketball and piano in my freetime
+- :mag: Fun fact: I love playing basketball and piano in my freetime
 
 ### Languages and Tools:
 
