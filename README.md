@@ -1,10 +1,5 @@
 ### Hello! I'm Matias 👋
 
-<!--
-**MatiasSmith/MatiasSmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on robotics and self driving AI/CV, android app development 
 - 🌱 I’m currently learning systems programming, web/app development, and ML/CV
 - 😄 Pronouns: He/Him
