@@ -1,6 +1,6 @@
 ### Hello! I'm Matias 👋
 
-- 🔭 I’m currently working on robotics and self driving AI/CV, android app development 
+- 🔭 I’m currently working on robotics and self driving AI/CV, and android app development 
 - 📘 I’m currently learning systems programming, web/app development, and ML/CV
 - 👦 Pronouns: He/Him
 - ❔ Fun fact: I love playing basketball and piano in my freetime
